@@ -1,0 +1,32 @@
+[
+  {
+    "tittle": "iphone1",
+    "price": 154,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "tittle": "watch",
+    "price": 23,
+    "featured": false,
+    "company": "apple"
+  },
+  {
+    "tittle": "earphone",
+    "price": 45,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "tittle": "book",
+    "price": 45,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "tittle": "ronak",
+    "price": 154,
+    "featured": true,
+    "company": "dell"
+  }
+]
